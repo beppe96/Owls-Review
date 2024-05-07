@@ -1,0 +1,22 @@
+impact,category,nspecies_tot_studied,nspecies_negatively_affected,species_negatively_affected,species_none_negative_effect,species,n_study_tot,label_size
+Collisions,Road,22,,,,"Barn Owl, Eastern Screech-Owl, Great Horned Owl, Barred Owl, Long-eared Owl, Northern Saw-whet Owl, Great Grey Owl, Little Owl, Burrowing Owl, Snowy Owl, Western Screech Owl, Short-eared Owl, Northen Pigmy Owl, Boreal Owl, Eagle Owl, Scops Owl, Tawny Owl, Masked Owl, Ural Owl, Whiskered Screech-Owl, Northern Hawk Owl, Spotted Owl",52,
+Collisions,Trains,3,,,,"Barn Owl, Little Owl, Northern Hawk Owl ",4,
+Collisions,"Power lines
+(Electrocution)",6,,,,"Barn Owl, Little Owl, Eagle Owl, Burrowing Owl, Snowy Owl, Great Horned Owl",14,
+Collisions,"Buildings and 
+windows",14,,,,"Barn Owl, Little Owl, Tawny Owl, Scops Owl, Long-eared Owl, Short-eared Owl, Western Screech Owl, Eastern Screech Owl, Great Horned Owl, Northen Pigmy Owl, Burrowing Owl, Barred Owl, Boreal Owl, Northern Saw-whet Owl ",6,
+Collisions,Aircrafts,2,,,,"Little Owl, Long-eared Owl",1,n=78
+Collisions,Fences,1,,,,Eagle Owl,1,
+Contamination,"Pesticides and 
+rodenticides",14,,,,"Cape Eagle Owl, Barn Owl, Barred Owl, Little Owl, Long-eared Owl, Tawny Owl, Eagle Owl, Spotted Owl, Short-eared Owl, Southern Boobook, Powerful Owl, Collared Scops Owl, Great Horned Owl, Burrowing Owl",26,
+Contamination,BFRs,1,,,,Barn Owl,1,
+Contamination,Heavy metals,2,,,,"Eagle Owl, Long-eared Owl",2,n=30
+Road presence,,16,9,"Powerful Owl, Barn Owl, Tawny Owl, Southern Boobook, Eagle Owl, Little Owl, Scops Owl, Masked Owl, Ural Owl","Barred Owl, California Spotted Owl, Burrowing Owl, Long-eared Owl, Great Horned Owl, Western Burrowing Owl, Great Grey Owl, Short-eared Owl","Barred Owl, Spotted Owl, Barn Owl, Burrowing Owl, Long-eared Owl, Powerful Owl, Tawny Owl, Southern Boobook, Eagle Owl, Little Owl, Masked Owl, Great Horned Owl, Scops Owl, Ural Owl, Great Grey Owl, Short-eared Owl",34,n=34
+ALAN,,4,2,"Mottled Owl, Tawny Owl","Morepork, Burrowing Owl","Burrowing Owl, Mottled Owl, Morepork, Tawny Owl",5,n=5
+Anthropogenic noise,,10,9,"Tawny Owl, Ural Owl, Long-eared Owl, Barn Owl, Little Owl, Mottled Owl, Northern saw-whet Owl, Short-eared Owl, Western Burrowing Owl","California Spotted Owl, Burrowing Owl","Tawny Owl, Ural Owl, Long-eared Owl, Barn Owl, Little Owl, Mottled Owl, Northern saw-whet Owl, Short-eared Owl, Spotted Owl, Burrowing Owl",15,n=15
+Hunting and trapping,Shooting,9,,,,"Burrowing Owl, Short-eared Owl, Long-eared Owl, Little Owl, Scops Owl, Tawny Owl, Barn Owl, Eagle Owl, Great Horned Owl",19,
+Hunting and trapping,Trapping,6,,,,"Barn Owl, Little Owl, Eagle Owl, Tawny Owl, Long-eared Owl, Short-eared Owl",12,
+Hunting and trapping,Nest robbery,2,,,,"Eagle Owl, Barn Owl",11,
+Hunting and trapping,Predation by pets,1,,,,Burrowing Owl,1,
+Hunting and trapping,Building confinement,2,,,,"Little Owl, Barn Owl",1,n=44
+Fear of humans,,1,,,,Burrowing Owl,11,n=11
