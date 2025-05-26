@@ -1,0 +1,20 @@
+n_species,trait,response,factor
+6,Habitat use & selection,Attractive,Roads
+8,Habitat use & selection,Repulsive,Roads
+1,Habitat use & selection,Neutral,Roads
+4,Foraging,Attractive,Roads
+1,Breeding success,Neutral,Roads
+1,Breeding success,Repulsive,Roads
+1,Physiological stress,Neutral,Roads
+1,Species abundance,Repulsive,Roads
+1,Habitat use & selection,Neutral,Noise
+1,Habitat use & selection,Repulsive,Noise
+3,Hunting behaviour,Repulsive,Noise
+7,Species presence,Repulsive,Noise
+1,Vocal activity,Neutral,Noise
+1,Physiological stress,Neutral,Noise
+1,Habitat use & selection,Attractive,ALAN
+1,Habitat use & selection,Neutral,ALAN
+2,Species presence,Repulsive,ALAN
+2,Vocal activity,Neutral,ALAN
+1,Foraging,Attractive,ALAN

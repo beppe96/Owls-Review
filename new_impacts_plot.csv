@@ -1,0 +1,13 @@
+impact,category,n_study_tot,label_size,nspecies_tot_studied
+Roads,,81,,23
+Obstacle collision,Trains,4,,3
+Obstacle collision,Power lines,20,,10
+Obstacle collision,Buildings and windows,6,,6
+Obstacle collision,Aircrafts,1,,2
+Obstacle collision,Fences,1,,1
+Chemicals,Rodenticides,21,,14
+Chemicals,BFRs,1,,1
+Chemicals,Heavy metals,2,,2
+ALAN,,5,,4
+Anthropogenic noise,,11,,10
+Response to human presence,,10,,1

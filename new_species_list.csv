@@ -1,0 +1,31 @@
+n_studies,latin_name,species
+34,Athene cunicularia,Burrowing Owl
+30,Tyto alba,Barn Owl
+22,Bubo bubo,Eagle Owl
+18,Asio otus,Long-eared Owl
+13,Strix varia,Barred Owl
+13,Athene noctua,Little Owl
+9,Asio flammeus,Short-eared Owl
+7,Aegolius acadicus,Northern saw-whet Owl
+10,Bubo virginianus,Great Horned Owl
+8,Megascops asio,Eastern screech Owl
+9,Strix aluco,Tawny Owl
+5,Strix nebulosa,Great Grey Owl
+4,Strix occidentalis,Spotted Owl
+3,Aegolius funereus,Boreal Owl
+3,Bubo scandiacus,Snowy Owl
+3,Glaucidium gnoma,Northern pygmy Owl
+4,Megascops kennicottii,Western screech Owl
+3,Otus scops,Scops Owl
+2,Strix uralensis,Ural Owl
+2,Ninox novaeseelandiae,Morepork
+2,Ninox strenua,Powerful Owl
+2,Tyto novaehollandiae,Masked Owl
+1,Bubo capensis,Cape eagle Owl
+1,Ciccaba virgata,Mottled Owl
+1,Glaucidium brasilianum,Ferruginous pygmy Owl
+1,Megascops trichopsis,Whiskered screech Owl
+1,Micrathene whitneyi,Elf Owl
+1,Ninox boobook,Southern Boobook
+1,Otus lettia,Collared scops Owl
+1,Surnia ulula,Northern hawk Owl
